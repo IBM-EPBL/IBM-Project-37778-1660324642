@@ -9,5 +9,7 @@
   3. Visit hazardsafe.github.io
   
   4. From the Python folder, run simulation.py.
+  
+  5. View changes in both website and app.
  
 </pre>  
